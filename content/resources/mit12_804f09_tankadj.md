@@ -4,6 +4,8 @@ description: 'This resource contains information related to two layer adjustment
 file: /courses/12-804-large-scale-flow-dynamics-lab-fall-2009/5f3e9b629bd529a3c3981b5922329902_MIT12_804F09_tankadj.pdf
 file_size: 65040
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: 'This resource contains three PDF files. '
 file: /courses/12-804-large-scale-flow-dynamics-lab-fall-2009/745ecf86f119bbee8f10eec7d307ca10_Rossby.zip
 file_size: 69696
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

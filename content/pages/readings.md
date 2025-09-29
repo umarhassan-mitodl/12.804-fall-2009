@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides introductions to the subjects covered by the course
   labs.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

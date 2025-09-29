@@ -4,6 +4,8 @@ description: 'This resource contains information related to vortex interaction. 
 file: /courses/12-804-large-scale-flow-dynamics-lab-fall-2009/51c182fff32b501f48b6ef545c7d4cbd_MIT12_804F09_vtx_inter_atm.pdf
 file_size: 92554
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
