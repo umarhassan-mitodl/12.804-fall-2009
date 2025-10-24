@@ -4,8 +4,6 @@ description: 'This resource contains information related to waves on a PV front.
 file: /courses/12-804-large-scale-flow-dynamics-lab-fall-2009/9a10a9ed5b20ff42605ca7b4245488af_MIT12_804F09_wavenet.pdf
 file_size: 85893
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

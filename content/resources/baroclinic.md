@@ -4,8 +4,6 @@ description: 'This resource contains two PDF files. '
 file: /courses/12-804-large-scale-flow-dynamics-lab-fall-2009/670bb7c9030c4d7fa8af4f9d6eb6dcd6_baroclinic.zip
 file_size: 37183
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
