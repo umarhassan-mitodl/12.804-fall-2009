@@ -44,7 +44,6 @@
     "website": "12-804-large-scale-flow-dynamics-lab-fall-2009"
   },
   "course_title": "Large-scale Flow Dynamics Lab",
-  "hide_download": true,
   "course_description": "This course is a laboratory accompaniment to 12.803, Quasi-balanced Circulations in Oceans and Atmospheres. The subject includes analysis of observations of oceanic and atmospheric quasi-balanced flows, computational models, and rotating tank experiments. Student projects illustrate the basic principles of potential vorticity conservation and inversion, Rossby wave propagation, baroclinic instability, and the behavior of isolated vortices.\n",
   "department_numbers": [
     "12"
@@ -55,7 +54,6 @@
     "content": "3b6cc3d6-85df-e822-7116-69f028815bde",
     "website": "12-804-large-scale-flow-dynamics-lab-fall-2009"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Projects"
   ],
